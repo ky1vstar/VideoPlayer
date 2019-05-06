@@ -1,0 +1,10 @@
+/* 
+  VideoPlayer.strings
+  VideoPlayerDemo
+
+  Created by KY1VSTAR on 05.03.2019.
+  Copyright © 2019 KY1VSTAR. All rights reserved.
+*/
+
+"live" = "Live";
+"liveBroadcast" = "Liveübertragung";
